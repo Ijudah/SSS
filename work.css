@@ -1,0 +1,21 @@
+.header_div {
+  height: 90px;
+  background-color: #e3f2fd;
+  text-align: center;
+}
+    /*color: a blurry color for the fields 
+    check color scheme*/
+.card,.newDivs{
+  top: 50px;
+}
+
+.newDivs {    
+  position: absolute;
+  width: 344px;
+  height: 400px;
+  margin: 0.5rem 0 1rem 0;
+  background-color: #fff;
+  transition: box-shadow .25s;
+  border-radius: 2px; 
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
